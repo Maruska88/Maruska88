@@ -10,7 +10,7 @@ Version 1.0.3 - Date: 01-08-2024
 
 **Bug fix**
 
-- Issue with unchecking services fixed as the user previously couldn't uncheck if single service was checked.
+- Issue with unchecking services fixed as the user previously couldn't uncheck if a single service was checked.
 
 **Additional changes**
 
@@ -20,8 +20,8 @@ Version 1.0.3 - Date: 01-08-2024
 
 **Change details**
 
-**_New input field added_** - this field will provide our users to enter their company name which will help us to understand better their needs, and provide them with personalized support.
+**_New input field added_** - This field will allow our users to enter their company name which will help us to better understand their needs, and provide them with personalized support.
 
-**_Issue with unchecking services solved_** - some users reported that they cannot uncheck single service. This issues is solved to provide better user experience (UX) for our users.
+**_Issue with unchecking services solved_** - some users reported that they cannot uncheck a single service. This issue is solved to provide better user experience (UX) for our users.
 
 Any other issues, changes or updates will be shown in additional notes (if needed).
