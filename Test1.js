@@ -10,3 +10,10 @@ module.exports = defineConfig({
     videosFolder: "cypress/videos",
   },
 });
+
+describe("My First Test", () => {
+  it("Visits the app", () => {
+    cy.visit("/");
+    cy.contains("Welcome").should("exist");
+  });
+});
